@@ -13,4 +13,10 @@ Players can also decide whether they have the ability to promote pawns to either
 
 This provides more initial position options (960 * 4) and, based on pawn promotion choices, two additional variations.
 
-All other rules are same like in clasical chess and chess 960 akka Fischer random chess
+All other rules are like chess 960 akka Fischer random chess
+
+# chessx4x2
+
+Same like chess  expect Q could be replace with H,E or A
+also promtion could be like above all posible pieces or just pieces that start game. 
+All other rules are like in chess. 
