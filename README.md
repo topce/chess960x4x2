@@ -16,7 +16,7 @@ This provides more initial position options (960 * 4) and, based on pawn promoti
 
 All other rules are like chess 960 akka Fischer random chess
 
-# chessx4x2
+# chess4x2
 
 Same like chess  expect Q could be replace with H,E or A when starting game.
 Promtion could be like above all posible pieces or just pieces that start game. 
